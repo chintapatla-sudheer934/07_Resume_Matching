@@ -1,0 +1,1 @@
+# AI Resume Screening and Job Matching\n\nRun `streamlit run app.py`. Upload text-based PDFs. Resume similarity scores should support—not replace—human review.\n
